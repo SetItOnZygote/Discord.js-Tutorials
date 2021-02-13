@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "4.2.0",
+  "description": "Discord bot Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zygote",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
